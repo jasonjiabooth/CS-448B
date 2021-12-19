@@ -12,3 +12,11 @@ Notebooks:
 - Making D3 Charts Interactive
 - Let's Make a Scatterplot
 - D3 Exercises
+
+Assignments:
+- Assignment 1: Visualization Design
+- Assignment 2: Exploratory Data Analysis
+- Assignment 3: Creating Interactive Visualization Software
+
+Project:
+- Final Project
