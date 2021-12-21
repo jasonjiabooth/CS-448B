@@ -8,7 +8,7 @@ Notebooks:
 - Data Transformation: https://observablehq.com/d/18bd4fafa3635851
 - Scales, Axes and Legends: https://observablehq.com/d/5e8c1e4a1237fec4
 - Multi-View Composition: https://observablehq.com/d/e702d9a8e7c60c12
-- Interaction: 
+- Interaction: observablehq.com/d/4e63f64a32dadcef 
 - Introduction to D3: 
 - Making D3 Charts Interactive: 
 - Let's Make a Scatterplot: 
