@@ -12,7 +12,7 @@ Notebooks:
 - Introduction to D3: https://observablehq.com/d/ba81d3c508309788
 - Making D3 Charts Interactive: https://observablehq.com/d/7da69238cbb5c780
 - Let's Make a Scatterplot: https://observablehq.com/d/92561db67540de7a
-- D3 Exercises: https:/observablehq.com/d/85f03c6b82a1a3e9
+- D3 Exercises: https://observablehq.com/d/85f03c6b82a1a3e9
 
 
 Assignments:
